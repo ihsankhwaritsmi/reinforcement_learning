@@ -1,4 +1,5 @@
-# KELOMPOK 4 Reinforcement Learning
+# KELOMPOK 4 Hands-on-5 Reinforcement Learning
+
 | Name                         | NRP        |
 | ---------------------------- | ---------- |
 | Muhammad Ihsan Al Khwaritsmi | 5025221211 |
