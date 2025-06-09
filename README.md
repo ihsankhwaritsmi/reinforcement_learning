@@ -1,3 +1,11 @@
+# KELOMPOK 4 Reinforcement Learning
+| Name                         | NRP        |
+| ---------------------------- | ---------- |
+| Muhammad Ihsan Al Khwaritsmi | 5025221211 |
+| Nyoman Satyawikrama Upadhana | 5025221194 |
+| I Putu Raditya Partha WIjaya | 5025221210 |
+| Putu Indra Mahendra | 5025221215 |
+| Farhan Widyanto Wibowo  | 5025221209 |
 # Laporan Proyek Reinforcement Learning (DQN untuk Ms. Pac-Man)
 
 Proyek ini mengimplementasikan agen Deep Q-Network (DQN) untuk bermain game Ms. Pac-Man menggunakan lingkungan Gymnasium dan TensorFlow.
